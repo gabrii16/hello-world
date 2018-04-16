@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int retornar (int matriz [][],int num)
+int retornar (int matriz [15][20],int num)
 {
     int i=0,j=0;
     for(i=0;i<15;i++)
